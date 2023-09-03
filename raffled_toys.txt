@@ -1,0 +1,1 @@
+Toy{id=1, name='Teddy Bear', quantity=10, weight=20.0}
